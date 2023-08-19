@@ -1,5 +1,6 @@
 <template lang="pug">
   .container.pt-5
+    h1.app-name QuickNote
     .form-control.pt-5
       .card.center
         h1 {{ notesTitle }}
@@ -121,6 +122,12 @@ h2 {
 
 h3 {
   font-size: 1.35rem;
+}
+
+.app-name {
+  font-size: 50px;
+  font-family: "Chalkboard SE";
+  margin: 0;
 }
 
 .danger {
