@@ -1,4 +1,4 @@
-# petproject
+# QuickNote
 
 App that helps you to track your habits and daily routines 
 
