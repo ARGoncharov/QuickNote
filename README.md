@@ -1,5 +1,7 @@
 # petproject
 
+App that helps you to track your habits and daily routines 
+
 ## Project setup
 ```
 yarn install
@@ -22,7 +24,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-App running at:
-  - Local:   http://localhost:8080/
-  - Network: http://192.168.0.167:8080/
